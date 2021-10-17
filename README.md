@@ -15,13 +15,13 @@ Outcomes_based_on_launch_date
 
 The first view we looked into was the Theater Category and charted it over a 12-month timeframe to visualize what the Outcomes were.  
 
-!Image 1(https://github.com/Alex81052/Module1challenge/blob/main/Resources/Outcomes_based_on_launch_date.png)
+![Image 1](https://github.com/Alex81052/Module1challenge/blob/main/Resources/Outcomes_based_on_launch_date.png)
 
 Outcomes_Based_on_Goals 
 
 The second view we looked into was how the subcategory plays and how their campaigns fared in their fundraising goals based on diffent ranges. 
 
-!Image 2(https://github.com/Alex81052/Module1challenge/blob/main/Resources/Outcomes_vs_Goals.png)
+![Image 1](https://github.com/Alex81052/Module1challenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
 The challenges consisted of being able to calculate the different functions learned and ensuring that they were accurate and aligned
 with expectations outlined throughout the modules. 
